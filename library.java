@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package LibraryManagementSystem;
 
 import java.util.*;
@@ -106,3 +107,10 @@ public class library {
         // checking case entered value is not zero
         while (choice != 0);
     }}
+=======
+package LibraryManagementSystem;
+
+public class library {
+    
+}
+>>>>>>> 90a7be533b944df557f534a54d901fede8e5b761
